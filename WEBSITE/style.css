@@ -1,0 +1,82 @@
+*{
+    /* background: rgb(253, 253, 253); */
+}
+
+h2{
+    background: wheat;
+    width: 200px;
+    top: 0;
+    text-align: center;
+    padding: 10px;
+    border-radius: 20px;
+}
+h1{
+    text-align: center;
+    color: wheat;
+    margin-top: 100px;
+    margin-left:  30%;
+}
+body{
+    background: url(../img/bg.jpg);
+}
+input{
+    border-radius: 5px;
+    height: 25px;
+}
+button{
+    width: 100px;
+    height: 30px;
+    background: skyblue;
+    border-radius: 10px;
+    float: right;
+}
+
+
+
+.next{
+    width: 400px;
+    height: 400px;
+    background: skyblue;
+    margin: auto;
+    border-radius: 15px;
+}
+
+ul{
+    list-style-type: none;
+    margin: auto;
+    text-align: center;
+    padding-left: 0%;
+    padding-top: 50%;
+}
+
+ul a{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    border: rgb(248, 0, 0) 2px solid;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+ul a:hover{
+    color: #000;
+    border: rebeccapurple 4px solid;
+    transition: 1s;
+}
+
+form{
+    text-align: center;
+    width: 300px;
+    height: 300px;
+    /* background: rgb(32, 134, 174); */
+    border-radius: 15px;
+    margin: auto;
+    margin-top: 100px;
+    padding-top: 100px;
+}
+
+.finish{
+    margin-top: 300px;
+}
+
